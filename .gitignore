@@ -1,7 +1,9 @@
+# Folders #
 bin/
-*.class
+.settings/
 
 # Package Files #
 *.jar
 *.war
 *.ear
+*.class
