@@ -11,6 +11,5 @@
 	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="libs/fluent-hc-4.2.2.jar"/>
 	<classpathentry kind="lib" path="libs/selenium-java-2.26.0.jar"/>
-	<classpathentry kind="lib" path="libs/selenium-server-standalone-2.26.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
